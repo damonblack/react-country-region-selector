@@ -1,3 +1,6 @@
+This is a single purpose fork that offers French translation of Canadian provinces. The source data only includes US and Canadian data.
+
+
 # React-Country-Region-Selector
 
 A feature you often need in forms is a connected country and region dropdown, where the region field gets automatically 
